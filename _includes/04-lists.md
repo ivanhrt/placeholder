@@ -1,4 +1,4 @@
-Chocolate
-Pingpong
-Anime
-League of Legends
+* Chocolate
+* Pingpong
+* Anime
+* League of Legends
